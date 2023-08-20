@@ -8,7 +8,7 @@
 	color:#f00;
 }
 #container:after{
-	content:"after Element ";
+	content:"after Element";
 	font-size:20px;
 	color:#f00;
 }
