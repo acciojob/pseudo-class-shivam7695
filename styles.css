@@ -3,7 +3,7 @@
 	margin:20px
 }
 #container:before{
-	content:"Before Element ";
+	content:"Before Element";
 	font-size:20px;
 	color:#f00;
 }
